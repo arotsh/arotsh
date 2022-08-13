@@ -38,5 +38,3 @@
 <a href="mailto:arayik.t.y@gmail.com"><img src="https://img.shields.io/badge/-arayik.t.y@gmail.com-026dbd?style=flat&logo=Gmail&logoColor=white" /></a>
 
 <br>
-
-
