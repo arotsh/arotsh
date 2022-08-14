@@ -1,7 +1,7 @@
-<div align="center" href="#"><img width="300" height="300" src="https://i.ibb.co/BKmKF35/businessman-working-on-laptop-3706314-3098819-0.webp" /></div>
-<div><h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arayik</h1>
+<div align="center"><img width="300" height="300" src="https://i.ibb.co/BKmKF35/businessman-working-on-laptop-3706314-3098819-0.webp" /></div>
+<div><h1 align="center">Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, I'm Arayik</h1>
 <h3 align="center">I'm a JS Developer</h3>
-</div>
+
 
 ### 🛠 I HAVE EXPERIENCE WITH THIS TOOLS AND TECHNOLOGIES
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
