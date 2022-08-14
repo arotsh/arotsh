@@ -39,10 +39,10 @@
 
 
 <h3> <img src="https://c.tenor.com/L1A0_Mcdo7cAAAAj/dm4uz3-foekoe.gif" width="30px">Connect with Me</h3>
-<a href="https://www.linkedin.com/in/arayik-tshagharyan-a73471224/"><img src="https://img.shields.io/badge/-Arayik Tshagharyan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/arayik.tshagharyan"><img src="https://img.shields.io/badge/-Arayik Tshagharyan-026dbd?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/arayik_tshagharyan/"><img src="https://img.shields.io/badge/-Arayik Tshagharyan-026dbd?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://t.me/arayik_tshagharyan"><img src="https://img.shields.io/badge/-Arayik Tshagharyan-32aade?style=flat&logo=Telegram&logoColor=white"/></a>
-<a href="mailto:arayik.t.y@gmail.com"><img src="https://img.shields.io/badge/-arayik.t.y@gmail.com-026dbd?style=flat&logo=Gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arayik-tshagharyan-a73471224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/arayik.tshagharyan"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/arayik_tshagharyan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://t.me/arayik_tshagharyan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="mailto:arayik.t.y@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br>
