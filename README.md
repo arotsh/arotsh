@@ -2,7 +2,6 @@
 <div><h1 align="center">Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, I'm Arayik</h1>
 <h3 align="center">I'm a JS Developer</h3>
 
-
 ### 🛠 I HAVE EXPERIENCE WITH THIS TOOLS AND TECHNOLOGIES
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -40,7 +39,6 @@
 
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 ![Yarn](https://img.shields.io/badge/-yarn-013047?style=for-the-badge&logo=yarn)
-
 
 <h3> <img src="https://c.tenor.com/L1A0_Mcdo7cAAAAj/dm4uz3-foekoe.gif" width="30px">Connect with Me</h3>
 <a href="https://www.linkedin.com/in/arayik-tshagharyan-a73471224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
