@@ -1,5 +1,5 @@
 <div align="center"><img width="300" height="300" src="https://i.ibb.co/BKmKF35/businessman-working-on-laptop-3706314-3098819-0.webp" /></div>
-<div><h1 align="center">Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, I'm Arayik</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, I'm Arayik</h1>
 <h3 align="center">I'm a JS Developer</h3>
 
 ### 🛠 I HAVE EXPERIENCE WITH THIS TOOLS AND TECHNOLOGIES
