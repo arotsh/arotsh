@@ -36,4 +36,5 @@
 <a href="https://t.me/arayik_tshagharyan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="mailto:arayik.t.y@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+[![wakatime](https://wakatime.com/badge/user/71745e50-b060-4807-952e-c74074518235.svg)](https://wakatime.com/@71745e50-b060-4807-952e-c74074518235)
 <br>
